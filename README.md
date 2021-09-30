@@ -5,7 +5,7 @@ Fastlane action for xcarchive codesign via mail.ru codesign machine by vk certif
 
 # Available Fastlane actions
 
-## [get_project_info](fastlane/actions/vk_codesign.rb)
+## [vk_codesign](fastlane/actions/vk_codesign.rb)
 
 Codesign xcarchive via mail.ru codesign machine by vk certificate
 
