@@ -1,0 +1,9 @@
+
+
+platform :ios do
+
+	lane :test_vk_codesign do
+    	vk_codesign
+  	end
+
+end
